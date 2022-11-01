@@ -1,24 +1,24 @@
 # password-generator
 
 ## Description
-
+This is a website that was designed to generate a randomized password after answering a series of prompts. 
 
 
 ## Usage
 
 The following image shows the web application's appearance and functionality:
-![Portfolio Screenshot](./assets/images/portfolio.png)
+![Password Generator Screenshot](./assets/images/screenshot.png)
 
 This is the link to the deployed website:
--[Portfolio Website](https://beefbones.github.io/portfolio-project/)
+-[Password Generator Website](https://beefbones.github.io/password-generator/)
 
 ## Credits
 
-These sites helped me immensely with creating this website.
+This site helped me immensely with creating this website.
 
--[The background of the website](http://wallpaperswide.com/minimalist_background_i-wallpapers.html)
--[The CSS reset stylesheet](http://meyerweb.com/eric/tools/css/reset/ )
--[How to hyperlink an image using css and javascript](https://stackoverflow.com/questions/117667/hyperlinking-an-image-using-css)
+-[Javascript for loop](https://www.codegrepper.com/code-examples/javascript/frameworks/jquery/how+to+create+a+for+loop+for+a+random+password+generator+javascript)
+
+
 
 ## License
 
