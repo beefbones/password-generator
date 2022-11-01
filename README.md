@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was created to showcase my deployed portfolio of work samples to potential employers. Throughout creating this, I learned a lot about HTML, CSS Grid, and how the two interact with each other.
+
 
 ## Usage
 
